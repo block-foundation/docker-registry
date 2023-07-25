@@ -8,7 +8,7 @@
 ---
 
 <div>
-    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/src/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
+    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
     <h1 align="left">Block Docker Registry</h1>
     <h3 align="left">Block Foundation Docker Containers</h3>
 </div>
@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/src/master/image/repository_cover/block_foundation-form_follows_finance.jpg"width="100%" height="100%" alt="Block Foundation Containers">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-form_follows_finance.jpg"width="100%" height="100%" alt="Block Foundation Containers">
 </p>
 
 ## Introduction
@@ -38,13 +38,13 @@ Enhancement and maintenance of Docker images for Algorand, Ethereum, Cardano, an
 
 ### Copyright
 
-Copyright 2023, [Stichting Block Foundation](https://www.blockfoundation.io).
+Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
 
 ### License
 
 Except as otherwise noted, the content in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
-code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
+code samples are licensed under the [MIT License](https://opensource.org/license/mit/).
 
 Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
 
