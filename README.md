@@ -43,6 +43,7 @@ Join us in our mission to make blockchain technology accessible to all. Explore,
 - [Matrix Synapse](https://github.com/block-foundation/docker-matrix-synapse)
 - [Polkadot Node](https://github.com/block-foundation/docker-polkadot-node)
 - [Polkadot Interface](https://github.com/block-foundation/docker-polkadot-interface)
+- [Solana Node](https://github.com/block-foundation/docker-solana-node)
 
 ## Development Resources
 
